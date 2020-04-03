@@ -14,8 +14,8 @@ In this repository you will find:
 * the original "raw" data from the Samsung UCI HAR team
 * run_analysis.R, an R script that processes that data and produces two new
 datasets:
-    * [full_ds](full_ds.txt): a dataset corresponding to the one resulting of applying the steps 1-4 in the course assignment.
-    * [new_ds](new_ds.txt): a dataset corresponding to the one described in the step 5, also submitted via the assignments submission form.
+    * [full_ds](full_dataset.txt): a dataset corresponding to the one resulting of applying the steps 1-4 in the course assignment.
+    * [new_ds](new_dataset.txt): a dataset corresponding to the one described in the step 5, also submitted via the assignments submission form.
 * [CodeBook.md](CodeBook.md): a codebook describing the new two datasets.
 * README.md: this file.
 
